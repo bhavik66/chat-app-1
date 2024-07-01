@@ -1,0 +1,10 @@
+{
+    "chat": {
+        "messages": "Mensajes",
+        "search": "Buscar",
+        "searchMessage": "Buscar mensaje",
+        "call": "Llamar",
+        "typeAMessage": "Escribe un mensaje",
+        "online": "En línea"
+    }
+}
